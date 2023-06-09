@@ -28,8 +28,8 @@ export default function Advertise() {
                         <div className='flex flex-col md:flex-row'>
                             <div className='basis-1/2 mt-8'>
                                 <div className='flex flex-col basis-1/2 items-start justify-start md:mx-8'>
-                                    <h1 className='text-lg my-2 font-bold text-orangslate-700'>Use QR Codes</h1>
-                                    <p className='text-base text-slate-500'>to connect anything on the internet, such as websites, coupons, and videos</p>
+                                    <h1 className='text-lg my-2 font-bold text-orangslate-700'>QR Codes</h1>
+                                    <p className='text-base text-slate-500'>To connect anything on the internet, such as websites, coupons, and videos</p>
                                 </div>
                             </div>
                             <div className='basis-1/2 mt-8'>
@@ -43,8 +43,8 @@ export default function Advertise() {
                         <div className='flex flex-col md:flex-row'>
                             <div className='basis-1/2 mt-8'>
                                 <div className='flex flex-col basis-1/2 items-start justify-start md:mx-8'>
-                                    <h1 className='text-lg my-2 font-bold text-orangslate-700'>Subsidize or Cover the Entire Cost by Sharing the Ad Space</h1>
-                                    <p className='text-base text-slate-500'>We help you to cut your CAC by 40%</p>
+                                    <h1 className='text-lg my-2 font-bold text-orangslate-700'>Growth</h1>
+                                    <p className='text-base text-slate-500'>Improve your customer retention and decrease your CAC</p>
                                 </div>
                             </div>
                             <div className='basis-1/2 mt-8'>
