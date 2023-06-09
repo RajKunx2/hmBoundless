@@ -5,7 +5,7 @@ import gmail from "../assets/gmail.png"
 import money from "../assets/money.png"
 import rocket from "../assets/rocket.png"
 import group from "../assets/group.png"
-import canvas from "../assets/canvas.png"
+import canvas from "../assets/canvas.jpg"
 
 export default function Advertise() {
     return (
@@ -34,8 +34,8 @@ export default function Advertise() {
                             </div>
                             <div className='basis-1/2 mt-8'>
                                 <div className='flex flex-col basis-1/2 items-start justify-start md:mx-8'>
-                                    <h1 className='text-lg my-2 font-bold text-orangslate-700'>Sell or Freely Distribute</h1>
-                                    <p className='text-base text-slate-500'>ad supported FreeWater in aluminum bottles and paper cartons</p>
+                                    <h1 className='text-lg my-2 font-bold text-orangslate-700'>Social Media</h1>
+                                    <p className='text-base text-slate-500'>Increase your custormer base by showing you social media handles on packages.</p>
                                 </div>
                             </div>
                             <div></div>
@@ -44,13 +44,13 @@ export default function Advertise() {
                             <div className='basis-1/2 mt-8'>
                                 <div className='flex flex-col basis-1/2 items-start justify-start md:mx-8'>
                                     <h1 className='text-lg my-2 font-bold text-orangslate-700'>Subsidize or Cover the Entire Cost by Sharing the Ad Space</h1>
-                                    <p className='text-base text-slate-500'>with non-competing brands</p>
+                                    <p className='text-base text-slate-500'>We help you to cut your CAC by 40%</p>
                                 </div>
                             </div>
                             <div className='basis-1/2 mt-8'>
                                 <div className='flex flex-col basis-1/2 items-start justify-start md:mx-8'>
                                     <h1 className=' text-lg my-2 font-bold text-orangslate-700'>Eco-friendly</h1>
-                                    <p className='text-base text-slate-500'>Our goal is to be net positive by 2030</p>
+                                    <p className='text-base text-slate-500'>100% Biodegradable and Recyclable Pads</p>
                                 </div>
                             </div>
                             <div></div>
@@ -69,12 +69,12 @@ export default function Advertise() {
                     <div className='flex flex-col basis-1/2 items-center my-2 justify-center align-middle md:mx-8'>
                         <Image src={gmail} alt='' width={60} height={60} />
                         <h1 className='text-center text-4xl my-4 font-bold text-white'>10x</h1>
-                        <p className='text-center text-base text-gray-400'>Our goal is to be net positive by 2030</p>
+                        <p className='text-center text-base text-gray-400'>More impressions than direct mail</p>
                     </div>
                     <div className='flex flex-col basis-1/2 items-center my-2 align-middle justify-center md:mx-8'>
                         <Image src={money} alt='' width={60} height={60} />
-                        <h1 className='text-center text-4xl my-4 font-bold text-white'>$2.50</h1>
-                        <p className='text-center text-base text-gray-400'>more impressions than direct mail</p>
+                        <h1 className='text-center text-4xl my-4 font-bold text-white'>40%</h1>
+                        <p className='text-center text-base text-gray-400'>Decrease in your CAC</p>
                     </div>
                 </div>
                 <div className='flex md:flex-row flex-col align-middle justify-center items-center md:my-6'>
